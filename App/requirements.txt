@@ -11,6 +11,5 @@ langchain_community
 chromadb
 sentence-transformers
 llama-index-embeddings-langchain
-pyaudio
 openapi-schema-pydantic
 
